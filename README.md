@@ -97,6 +97,14 @@ Industry Insights: There is a strong relationship between technology and unicorn
 ## Presentation
 - View the presentation slides [here](https://www.canva.com/design/DAGJPqjCUWc/_vLgcXkDWqUuVyx3_R4BEQ/edit?utm_content=DAGJPqjCUWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
+## Implications
+
+Impact of Technological Advancements: The decreasing time to achieve unicorn status highlights the significant impact of technological advancements and better funding opportunities.
+
+Strategic Focus for Startups: Startups should prioritize technological innovation and scalable business models to accelerate their growth.
+
+Investor Insights: Investors can use these trends to identify potential unicorns earlier based on industry, technology adoption, and growth patterns.
+
 ## Author
 - Rayner J Morla
 - Raynermorla21@gmail.com
