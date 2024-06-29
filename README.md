@@ -52,17 +52,43 @@ ROI Rank: Ranking of the company based on ROI.
 4. Run the Jupyter Notebook or Python scripts to perform the analysis.
 
 ## Analysis Process
-1. Data cleaning and preprocessing.
-2. Calculation of the time to become a unicorn.
-3. Descriptive statistics and trend analysis.
-4. Visualization using Tableau.
+
+Data Cleaning and Preprocessing:
+
+Removed duplicate entries to ensure each company appears only once.
+
+Handled missing values by imputing with median values or dropping rows if critical data was missing.
+
+Converted date fields to datetime format for accurate calculations.
+
+Standardized monetary values by removing symbols and ensuring consistent units (e.g., converting billions and millions).
+
+Feature Engineering:
+
+Calculated the Time to Unicorn as the difference between Year Became Unicorn and Year Founded.
+
+Created a Decade Founded field to group companies by the decade they were founded for trend analysis.
+Descriptive Statistics and Trend Analysis:
+
+Calculated mean, median, and range for the time to become a unicorn.
+Analyzed trends over different periods, particularly with technological advancements.
+Visualization Using Tableau:
+
+Created visualizations to illustrate key findings and insights.
 
 ## Summary of Findings
-- Average time to become a unicorn: 7 years (recently decreased to 5 years).
-- Biggest ROI: Zapier with a 450% growth.
-- Technology improves, leading to faster unicorn status.
-- The US leads with 562 unicorns, while China's Bytedance has the highest valuation.
-- Strong relationship between tech companies and achieving unicorn status.
+
+Biggest ROI: Zapier achieved the highest return on investment with a 450% growth.
+
+Longest Time to Become a Unicorn: Otto Book Health Care took 98 years to become a unicorn.
+
+Average Time to Become a Unicorn: On average, it takes about 7 years for companies to reach unicorn status, but in the last decade, this has decreased to approximately 5 years.
+
+Technology and Time Correlation: A significant insight from the scatter plot analysis shows a correlation between time and technology. As technology has advanced, companies have been able to reach unicorn status more quickly.
+
+Geographical Insights: The United States leads the world in unicorn companies, with a total of 562. However, China is home to the highest-valued unicorn, Bytedance.
+
+Industry Insights: There is a strong relationship between technology and unicorn companies, with many tech startups achieving rapid growth and high valuations.
 
 ## Viewing the Tableau Report
 - View the Tableau report [here][(https://public.tableau.com/app/profile/rayner.morla/viz/Unicorncompaniestableau/Dashboard1#1).
