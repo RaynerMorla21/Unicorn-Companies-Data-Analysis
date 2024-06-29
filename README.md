@@ -1,13 +1,34 @@
 # Unicorn-Companies-Data-Analysis
 Project For Ironhack 
 
-## Project Description
+# Project Description
+
 This project analyzes unicorn companies to understand trends and patterns in their growth and valuation. The main focus is on the time it takes for companies to achieve unicorn status, the impact of technology, and geographical insights.
 
-## Dataset Information
-- Source: Maven Analytics
-- Includes over a thousand private companies with a valuation over $1 billion as of March 2022.
-- Key variables: Company Name, Valuation, Date Joined, Industry, City, Country, Continent, Year Founded, Funding, Select Investors, ROI, ROI Rank.
+# Dataset Information
+
+Source: Maven Analytics
+Time Frame: Data includes private companies with a valuation over $1 billion as of March 2022.
+Size: Over a thousand unicorn companies.
+Key Variables:
+Company Name: The name of the unicorn company.
+Valuation: The current valuation of the company in dollars.
+Date Joined: The date the company achieved unicorn status.
+Industry: The industry in which the company operates.
+City, Country, Continent: Geographic information about the company's location.
+Year Founded: The year the company was founded.
+Funding: Total funding received by the company.
+Select Investors: Key investors in the company.
+ROI: Return on Investment, calculated as 
+(
+Current Valuation
+−
+Total Funding
+)
+/
+Total Funding
+(Current Valuation−Total Funding)/Total Funding.
+ROI Rank: Ranking of the company based on ROI.
 
 ## Setup and Running the Code
 1. Clone this repository:
