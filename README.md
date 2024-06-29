@@ -5,7 +5,7 @@ Project For Ironhack
 
 This project analyzes unicorn companies to understand trends and patterns in their growth and valuation. The main focus is on the time it takes for companies to achieve unicorn status, the impact of technology, and geographical insights.
 
-# Dataset Information
+## Dataset Information
 
 Source: Maven Analytics
 Time Frame: Data includes private companies with a valuation over $1 billion as of March 2022.
